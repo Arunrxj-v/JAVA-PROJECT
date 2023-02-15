@@ -15,10 +15,4 @@ class project
 }
 //test2
 //test3
-<<<<<<< HEAD
-//sample
-//riju
-=======
-//test4
-//test5
-//rj
+//hello
