@@ -1,23 +1,14 @@
-//hi iam. arun for the nth time 
-/**
- * project
- */
-public class project {
+import java.util.Scanner;
 
-    public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("njan evide ond");
-        System.out.println("njnm onde ivide");
-        System.out.println("veendum njn vannu");
-        System.out.println("end of thinking capacity");
+class project
+{
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int num1=sc.nextInt();
+        int num2=sc.nextInt();
+        int sum=num1+num2;
+        System.out.println("Sum is : "+sum);
+        sc.close();
     }
-    
-
 }
-//hi iam arun
-//test1
-//test2
-//test3
-//test4
-//test5
-//test6
