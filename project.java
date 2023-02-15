@@ -15,5 +15,10 @@ class project
 }
 //test2
 //test3
+<<<<<<< HEAD
 //sample
 //riju
+=======
+//test4
+//test5
+>>>>>>> c52a3edb061a75e14426f150e4f71424ae3e8575
