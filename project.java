@@ -9,6 +9,7 @@ public class project {
         System.out.println("njan evide ond");
         System.out.println("njnm onde ivide");
         System.out.println("veendum njn vannu");
+        System.out.println("end of thinking capacity");
     }
     
 
