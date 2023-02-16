@@ -30,4 +30,4 @@ class man extends human
 
 }       
 //fudhi ond appo
-//write another code with some mistakes and let others correct it
+//write another code with some mistakes and let others correct it :)
