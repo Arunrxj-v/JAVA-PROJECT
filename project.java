@@ -29,3 +29,4 @@ class man extends human
     }
 
 }       
+//fudhi olla arelum correct the code :)
