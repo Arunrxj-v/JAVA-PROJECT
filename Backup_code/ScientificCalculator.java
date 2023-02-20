@@ -485,6 +485,6 @@ public class ScientificCalculator extends JFrame implements ActionListener {
 		ScientificCalculator f = new ScientificCalculator();
 		f.setTitle("ScientificCalculator");
 		f.pack();
-		f.setVisible(true);
+		f.setVisible(true)
 	}
 }
